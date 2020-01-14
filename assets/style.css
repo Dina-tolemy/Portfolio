@@ -11,12 +11,11 @@ a {
     top: 15%;
 }
 .Projects li{
-    display: inline;
-    text-align: center;
-    margin: 50px;
-    font-display:bolder ;
-    font-size: large;
-    color: rgb(46, 44, 44);
+    text-align: left;
+    font-display:bold;
+    font-size: 26px;
+    color: rgb(80, 78, 78);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .list li {
