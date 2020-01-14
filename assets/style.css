@@ -1,6 +1,7 @@
 a {
     text-decoration: none;
-    color: gray;
+    color:  #4aaaa5;
+    font-size: x-large;
 }
 
 .list {
@@ -11,13 +12,19 @@ a {
     top: 15%;
 }
 .Projects li{
+    
     text-align: left;
     font-display:bold;
     font-size: 26px;
-    color: rgb(80, 78, 78);
+    color: rgb(105, 103, 103);
     font-family: 'Times New Roman', Times, serif;
 }
-
+button{
+    background: #4aaaa5 ;
+    color: white;
+    border-radius: 1em;
+    width: 220px;
+}
 .list li {
     display: inline;
     text-align: center;
@@ -109,7 +116,7 @@ p {
     margin-left: 20px;
     margin-right: 10px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 22px;
     color: gray;
 }
 
