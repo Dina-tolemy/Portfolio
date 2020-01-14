@@ -23,7 +23,6 @@ h2 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     padding: 15px;
-    border-bottom-style: lightgrey solid 1px;
 }
 
 #name {
@@ -34,7 +33,6 @@ h2 {
     text-align: center;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     margin: 0;
-    border: 1px solid lightgray;
 }
 
 #navbarText {
@@ -61,6 +59,7 @@ h2 {
 #profile {
     width: 300px;
     height: 300px;
+    border-radius: 10em;
 }
 
 #pics {
@@ -100,7 +99,6 @@ p {
 }
 
 .container1 {
-    border-top: 2px solid lightgrey;
     margin-top: 10px;
     padding: 20px;
     position: relative;
@@ -123,7 +121,6 @@ ul.twocolumns li {
 .container {
     text-align: center;
     color: white;
-    border-top: lightgray solid;
 }
 
 body > .container {
@@ -169,4 +166,15 @@ body > .container {
         padding-left: 0.5em;
 
     }
+}
+
+
+@media screen and (max-width: 400px){
+    .wrapper {
+        width: 300px;
+        align-content: center;
+        position: relative;
+    }
+  
+
 }
