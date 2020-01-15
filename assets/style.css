@@ -116,6 +116,7 @@ p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 22px;
     color: gray;
+    text-align: left;
 }
 
 .container1 {
