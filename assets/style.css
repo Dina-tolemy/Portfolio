@@ -38,6 +38,7 @@ h2 {
     color: #176d69;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     padding: 15px;
+    font-display: bolder;
 }
 
 #name {
@@ -73,6 +74,7 @@ h2 {
     overflow: auto;
     margin-right: 50px;
     margin-left: 50px;
+    margin-bottom: 50px;
 }
 
 #profile {
@@ -119,26 +121,6 @@ p {
     text-align: left;
 }
 
-.container1 {
-    margin-top: 10px;
-    padding: 20px;
-    position: relative;
-}
-
-textarea {
-    position: relative;
-}
-
-ul.twocolumns {
-    display: inline-block;
-}
-
-ul.twocolumns li {
-    float: left;
-    list-style: outside none none;
-    width: 50%;
-}
-
 .container {
     text-align:left;
     color: rgb(78, 77, 77);
@@ -153,11 +135,7 @@ body > .container {
     border-top: lightgray solid;
 }
 
-.list > li:not(:last-child)::after {
-    content: "|";
-    margin: 0 .25em;
-    color: lightgray;
-}
+
 h4{
     text-align: center;
 }
