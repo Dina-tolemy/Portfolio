@@ -1,34 +1,16 @@
-# Responsive-Portfolio
+It's asimple portfolio with my bio 
+![Annotation 2020-01-16 175543](https://user-images.githubusercontent.com/55872249/72501038-fe849c00-3889-11ea-8634-2ba7234e9085.png)
 
+second page is alist of some small projects when you click the project name the links and summery of the project is displayed.
 
+![pro1](https://user-images.githubusercontent.com/55872249/72501051-03e1e680-388a-11ea-8385-0510ff358e7a.png)
 
-I created a navbar with the name and the links to the pages
-I used my last one form didn't use bootstrap here.
+the last page is links to my linkedin ,github,and resume also my contacts( email and phone number).
 
-![Annotation 2019-11-16 205237](https://user-images.githubusercontent.com/55872249/68991678-5cf6c380-08b5-11ea-8300-23784fd050bd.png)
+![contacts](https://user-images.githubusercontent.com/55872249/72501060-093f3100-388a-11ea-8fa8-c50f55ba6980.png)
 
+Next is  a screenshot from the mobile UI:
 
-in this page I created a container with two rows, each row has two coloms the coloms take half of the screen in a full sized screen.
-and takes the full screen in a small one.
+![mob8](https://user-images.githubusercontent.com/55872249/72501077-10663f00-388a-11ea-82fc-85795387af89.png)
 
-
-
-![Annotation 2019-11-16 205238](https://user-images.githubusercontent.com/55872249/68991688-8c0d3500-08b5-11ea-880e-ed4ccb87faf7.png)
-
-
-
- Exaple for the small screen sized.
-
-
-
-
-![Annotation 2019-11-16 205403](https://user-images.githubusercontent.com/55872249/68991711-b0691180-08b5-11ea-85ef-36226d6a3578.png)
-
-
-
-
-
-![Annotation 2019-11-16 205404](https://user-images.githubusercontent.com/55872249/68991723-cb3b8600-08b5-11ea-8010-e287770fae4a.png)
-
-
-on the index page I also created a container with two rows,with two coloms and each takes the whole screen on a small one like below.
+Deolyed link: https://dina-tolemy.github.io/Portfolio/
