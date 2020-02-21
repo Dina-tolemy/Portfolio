@@ -1,6 +1,7 @@
 var img1=$('<img src="./assets/Images/Arena.jpg" style="width:400px; hieght=600px;">');
 var img3=$('<img src="https://user-images.githubusercontent.com/55872249/70845940-8a309480-1ea8-11ea-8368-95d737dc55ce.png" alt="weather2" style="width:400px; hieght=600px;"></img>');
 var img2=$('<img src="https://user-images.githubusercontent.com/55872249/70368243-3fd57380-18fc-11ea-91f5-2a26903189b8.png" alt="Annotation 2019-12-07 141045"style="width:400px; hieght=600px; ">');
+var img5=$('<img src="https://user-images.githubusercontent.com/55872249/74914360-6b093280-5416-11ea-8a7f-fe7fd11a8a09.png"> alt="Eat-Da-Burger" style="width:400px; hieght=600px;')
 var img4=$('<img src="https://user-images.githubusercontent.com/55872249/69898061-4b7ae480-13a8-11ea-8d23-25adb9a0c01e.png" alt="correct" style="width:400px; hieght=600px;">');
 $(document).ready(function(){
    
@@ -37,6 +38,14 @@ $(document).ready(function(){
         $('.projectStory').html("It's a simple Java script quiz with a timer and the score is the time left."+"</br>"+"it shows the score at the end and it keeps the scores and shows the highest");
         $('.projectStory').append('</br>');
         $('.projectStory').append(img4);
+    });
+
+    $(".project5").on("click", function() { 
+        $('.projectGitLink').html('<a href="https://github.com/Dina-tolemy/Eat-Da-Burger">GiHub Page</a>');
+        $('.projectDeployedLink').html('<a href=" https://sheltered-island-53524.herokuapp.com/">Project link</a>');
+        $('.projectStory').html("It's burger logger with MySQL, Node, Express, Handlebars and ORM ."+"</br>"+"It lets the user save their burgers and devour it.");
+        $('.projectStory').append('</br>');
+        $('.projectStory').append(img5);
     });
 
 
